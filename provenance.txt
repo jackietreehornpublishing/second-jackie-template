@@ -1,0 +1,30 @@
+Template info:
+
+Group: jackietreehornpublishing
+Name: blank-template-template
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: jackietreehornpublishing
+Repo: blank-template-template
+Branch: master
+Path (within repo): 
+sha: a3638d0a6ebfb6c8b80afdf11648051d8755b3c0
+
+
+Parameter values (passed in on template invocation):
+description='my description'
+team-id='T1KHULA3E'
+name='second-jackie-template'
+template='blank-template-template'
+user-id='U1KGQ9YGK'
+template-type='java'
+group_id='jackietreehornpublishing'
+org='jackietreehornpublishing'
+version='0.0.1'
+artifact_id='second-jackie-template'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='04 07 2016 '
+creation_date='Mon Jul 04 2016 21:45:21 GMT+0000 (UTC)'
